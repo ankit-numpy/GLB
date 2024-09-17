@@ -1,3 +1,3 @@
 #hello code
-a=5
+a='Your name'
 print("hello",a)
